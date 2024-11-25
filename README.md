@@ -1,1 +1,1 @@
-# curso-de-git
+Logan Ampuero 5°6°
